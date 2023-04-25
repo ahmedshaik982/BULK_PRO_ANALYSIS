@@ -1,6 +1,8 @@
 # BULKPRO ANALYSIS USING POWER BI
 📊 BulkPro Company Dashboard: A Comprehensive Analysis 📈 Using Power BI
 
+The link to dashboard is: https://app.powerbi.com/view?r=eyJrIjoiYTU3ZTVhNDItYjE0Ni00OTM2LWE0MDAtMzNmMDliMmI0NjIzIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9
+
 I've combined two datasets - orders and products - to create insightful visualizations.
 
 Here's a breakdown of the process I followed and the visualizations I created:
